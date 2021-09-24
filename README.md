@@ -1,4 +1,6 @@
 # angular-qtip2
+**This loader is no longer maintained**
+
 qTip 2 directive for AngularJS.
 
 ## Features
